@@ -1,0 +1,28 @@
+{
+  "name": "blogpost",
+  "version": "1.0.0",
+  "description": "this is my assignment provided by Batch Systems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pranav-muley/blogAndPost.git"
+  },
+  "author": "Pranav Muley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranav-muley/blogAndPost/issues"
+  },
+  "homepage": "https://github.com/pranav-muley/blogAndPost#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "json": "^11.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.0",
+    "nodemon": "^3.1.0",
+    "urlencoder": "^0.1.0"
+  }
+}
